@@ -11,7 +11,7 @@ if r == 'Home':
     st.title('DEPRESSION PREDICTION')
     st.subheader("It’s okay to not be okay. Let’s take this journey together.")
     st.markdown("*You can predict your depression using ANN Deep Learning on the next page* 😎")
-    st.image("depSigns.PNG")
+    st.image("depSigns.PNG",'rb')
 
 # Depression Prediction Page
 elif r == 'Depression Prediction':
