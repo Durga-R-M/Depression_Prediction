@@ -11,4 +11,4 @@ Tools Python, Pandas(Library), numpy, sklearn, seaborn, matplotlib.pyplot, jobli
 
 ******Streamlit application link: **** https://durga-r-m-final-project-publishingindustry-final-project-1b6qyt.streamlit.app/
 
-LinkedIn Post URL: https://www.linkedin.com/posts/durgarmanikandan_final-project-demo-on-customer-churn-prediction-activity-7279020820276912128-_sZ5?utm_source=share&utm_medium=member_desktop
+LinkedIn Post URL: https://www.linkedin.com/posts/durgarmanikandan_github-durga-r-mdepressionprediction-activity-7282271441230688257-h8yn?utm_source=share&utm_medium=member_desktop
