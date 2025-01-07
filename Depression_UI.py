@@ -89,7 +89,7 @@ elif r == 'Depression Prediction':
     health_data = [1 if condition in health_issues else 0 for condition in health_conditions]
 
     # Load the model
-    model_path = 'C:/Users/hp/Desktop/Depression_Project/model.h5'
+    model_path = 'model.h5'
     if not os.path.exists(model_path):
         st.error("Model file not found. Please check the path.")
     else:
